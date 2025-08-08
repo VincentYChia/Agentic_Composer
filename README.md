@@ -1,9 +1,5 @@
 # Maestro AI - Sheet Music Generation System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-research-orange.svg)]()
-[![SSRN Paper](https://img.shields.io/badge/SSRN-5317646-red.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5317646)
-
 > **Maestro AI** is a specialized artificial intelligence system designed to generate professional-quality sheet music in MusicXML format. Unlike traditional AI music generators that produce audio, Maestro creates properly formatted, playable musical scores for various orchestral and chamber ensemble configurations.
 
 ## Features
